@@ -1,67 +1,10 @@
 # COGNIZANT
-Python 3 Programming Exercises
+## Python 3 Programming Exercises
 This repository contains solutions for 55 Python Programming Exercises covering fundamentals, data structures, object-oriented programming, file handling, error handling, modules, and real-world application simulations.
 
 The exercises are designed to strengthen problem-solving skills and practical Python development.
 
-Topics Covered
-Python Basics
-Installing Python
-Running Python Programs
-Jupyter Notebook
-VS Code Setup
-Variables
-Data Types
-Mathematical Operations
-User Input
-Control Flow
-If Statements
-If-Else
-If-Elif-Else
-Nested If
-For Loop
-While Loop
-Break
-Continue
-Pass
-Program Organization
-Functions
-Modules
-Comments
-Indentation
-File Handling
-Reading Files
-Writing Files
-Error Handling
-Try-Except
-Data Structures
-Lists
-Dictionaries
-Tuples
-Sets
-Object-Oriented Programming
-Classes
-Objects
-Method Chaining
-Inheritance
-Polymorphism
-Class Methods
-Real-World Applications
-Employee Management System
-Data Analysis Pipeline
-Configuration Manager
-CSV Data Processor
-Expense Tracker
-API Response Handler
-Calculator
-Shopping Cart
-Temperature Converter
-Backup Utility
-URL Shortener
-Gradebook System
-Task Scheduler
-Inventory Manager
-Budget Planner
+
 ## EX:01:Simple Hello World 
 ## code:
 ```
